@@ -69,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -119,18 +119,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransactionsController.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
-              "RelativeToolTip": "Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:45:41.345Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\Create.cshtml",
@@ -149,6 +137,31 @@
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmmettPiersonV1/True/SqlTable/dbo.Account.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-04-25T15:33:36.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T02:19:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:45:41.345Z"
             },
             {
               "$type": "Document",
@@ -221,19 +234,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-25T02:27:37.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T02:19:55.454Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
