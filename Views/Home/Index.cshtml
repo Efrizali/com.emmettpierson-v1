@@ -1,0 +1,194 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    Layout = null;
+}
+
+<head>
+    <link rel="stylesheet" href="css/Home.css" type="text/css" />
+</head>
+
+<html>
+
+<body>
+    <h1>Emmett Pierson</h1>
+
+
+    <p>
+        I am a dual enrollment student who managed up to 9 college and high school classes at once for 2.5 years, and
+        graduated both at the same time. I am looking for a role that challenges my skills and gives me the opportunity
+        to learn and improve in back end system development, though I have acquired some front end web development
+        skills. This website was made by me from scratch, showing my good-enough-for-a-backend-engineer HTML/CSS skills.
+    </p>
+
+    <p class="outsideLinks">
+        <a href="https://docs.google.com/document/d/1tnVxMRdIyzTvY9B9YYxBWR_K7F4XmjsfiI0uXzYG6pE/edit?usp=sharing"
+           target="_blank">Resume</a>
+        -
+        <a href="https://docs.google.com/document/d/1UAporVQMZdddWphHTUHLazcQdN8JLfW8PN8EZ6tkILU/edit?usp=sharing"
+           target="_blank">Cover Letter Template</a>
+    </p>
+
+
+    <table>
+        <caption>Skills</caption>
+        <thead>
+        <th>Experienced</th>
+        <th>Proficient</th>
+        <th>Familiar</th>
+        </thead>
+
+        <tr>
+            <td>.NET Core</td>
+            <td>Java</td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td>.NET Framework</td>
+            <td>HTML/CSS</td>
+            <td>Arduino</td>
+        </tr>
+        <tr>
+            <td>Fusion 360</td>
+            <td>MSSQL</td>
+            <td>Javascript</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>SQL Server</td>
+            <td>React</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>PostgreSQL</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>MongoDB</td>
+            <td></td>
+        </tr>
+    </table>
+
+    <div class="odd">
+        <h3>The Many Final Projects</h3>
+        <p>
+            I created and published a custom website from scratch in order to serve as a portfolio. As a capstone
+            project in my final semester, I merged the final projects for four classes: Capstone, .NET Applications, Web
+            Systems, and Web Design. The main page of the website is this portfolio, with accounting software built in
+            to the other pages. The technologies involved are .NET Core, MVC and Razor Pages, GoDaddy for the Domain and
+            DNS, and AWS for the web hosting. The resulting experience has prepared me for full stack web development.
+            Being my first website from scratch, it was a great way to learn more about the entire process. 
+        </p>
+        <img src="~/Final Project Something or Other.png">
+    </div>
+    <div class="even">
+        <h3>First Game</h3>
+        <p>
+            This project was an exercise in planning ahead, since my goal was to make a console based game that I could
+            expand upon in the future. This was the second big project in my second ever coding class, so I figured it
+            would be fun to create some form of game. So I started with a framework around enemy, weapon, and character
+            classes, and then expanded on them using child classes. Though an interface could've done the job, using a
+            class would ensure that the weapons couldn't get too complicated with too many classes and interfaces. The
+            most memorable part of this project is how it took upwards of 8 hours just to get something that was
+            complete enough to press run, with another 8+ hours spent finishing up the project. The final result,
+            despite being primitive, was a valuable experience in slowing down and thinking things through before
+            implementing them.
+        </p>
+        <img src="~/Task 2.png">
+    </div>
+    <div class="odd">
+        <h3>Meal List</h3>
+        <p>
+            This project was a foray into search algorithms and data storage. The goal of this project was to create a
+            way to search for meals based on name or ingredient in a form that could be adapted to a website or a
+            different database with minimal changes. I made the choice to handle most user interaction in a single
+            class, and the entirety of the database interaction in its own class. The purpose of the database
+            interaction being entirely separate and abstracted was to allow for me to change the database from a CSV
+            file to a proper SQL database and only have to change a single file. The search algorithm had room for
+            improvement, notably the ability to search for multiple ingredients at once, though I feel it was a good way
+            to close off the intro to Java class. I learned a lot about abstracting outside interaction in a way that
+            minimizes the code that needs to change to accommodate the new database.
+        </p>
+        <img src="~/Task 3.png">
+    </div>
+    <div class="even">
+        <h3>Analyzing Speech and Debate</h3>
+        <p>
+            For this project, I was to work in a group to analyze the problems with the Speech and Debate conferencing
+            software, determine the most important points for improvement, and recommend a new system for the project.
+            The system had complaints from a lot of users, since it was very complicated, unreliable, and was only
+            accessible to the event organizers. We found that the main problems with system that we could address was
+            the reliability of it, since the complexity of the system was due to it covering the different rules for all
+            fifty states. The final result was a 27 page paper that contained all of our thoughts on the subject, and a
+            presentation that summarized the paper. I learned a lot about coordinating with other people to get a large
+            project done, and also about how to find alternatives to a service.
+        </p>
+        <img src="~/Systems Project.png">
+    </div>
+    <div class="odd">
+        <h3>RoboCode</h3>
+        <p>
+            RoboCode is a coding challenge where you compete with other people to have the most powerful robot. I knew
+            that the best robot would probably be the simplest, so I decided to spend the majority of my time working to
+            figure out what makes for the most effective robot. I determined that the most effective robot was one that
+            just spins and avoids being hit. Since most robots will fire until they run out of energy and blow
+            themselves up, dodging their shots while dealing with whatever damage they managed to achieve was a strategy
+            that consistently placed me in the top 3. This was an exercise in analysis and it was useful to learn how
+            about how to read documentation for a Java class.
+        </p>
+        <img src="~/RoboCode.png">
+    </div>
+    <div class="even">
+        <h3>Application Security Paper</h3>
+        <p>
+            This paper entailed learning about a virus and what could have been done to prevent the infection. I had
+            heard about a virus called StuxNet before, and decided that was a good virus to choose. Stuxnet ended up
+            being a cyberweapon used against Iranian nuclear enrichment facilities, with multiple countries aiding in
+            the development. I decided that the only way this weapon could have been avoided was to not be an enemy of a
+            rich nation who dislikes your industry, since everything I read about the targeting of the enrichment plant
+            said that the virus was going to get in no matter what. The other smaller conclusion was to avoid plugging
+            random usb drives into your computer, as that was the primary method of transmission for Stuxnet and it
+            gives implicit trust to the drive. The research and writing of the paper went smoothly enough, and the resulting
+            presentation was a lot of fun. I learned a lot about how sophisticated viruses can get, and just how
+            important cyber security is for every organization.
+        </p>
+        <img src="~/Application Security.png">
+    </div>
+    <div class="odd">
+        <h3>Project Management</h3>
+        <p>
+            Managing a project requires a thorough analysis of the work and people involved in order to allocate
+            resources in the most productive way. I decided on a project around having AI in agriculture as that was
+            both a project that I had some interest in and an application of AI that I think would work out. The project
+            primarily consisted of managing risks, budgets, and the allocation of resources, all of which went into
+            their respective documents. After all of the roughly 12 documents were completed, I had gained an
+            understanding of how a project can be worked on until completion. I learned a lot about how I learn and put
+            my thoughts onto paper.
+        </p>
+        <img src="~/Project Management.png">
+    </div>
+    <div class="even">
+        <h3>Robot Arm From Scratch</h3>
+        <p>
+            This project involved many different skills working together to make one cohesive final product. I didn't
+            want to rely on someone else's design since many were often boring with software already made, used motors I
+            couldn't afford, and had parts too big for my 3D printer. I first chose the electronic parts, since
+            everything else could be designed around those. I only ended up using one expensive stepper motor for the
+            swiveling base, with another 3 servos being used for the joints, and a cheap stepper motor for the gripper.
+            Then was the 3d modeling phase, which was a long phase since it would determine how the rest of the project
+            would go. This stage went well enough due to my CAD classes in high school. After assembly of the parts came
+            the programming phase. The controls were simple and the code was short, though I did include custom buttons
+            and joystick control to ensure that I learned the most about analog and PWM controls. The final result was a
+            manually controlled robot arm that resembled a crane, that was capable of picking up properly sized objects
+            with its smooth plastic grippers. This project taught me a lot about electronics and how to use
+            microcontrollers.
+        </p>
+        <img src="~/My Robot Arm.jpg">
+    </div>
+    <footer>Emmett Pierson - emmett@emmettpierson.com</footer>
+</body>
+
+</html>
