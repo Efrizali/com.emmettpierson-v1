@@ -1,9 +1,17 @@
 wwwroot\Application Security.png
-wwwroot\css\Home.css
+wwwroot\css\bio.css
+wwwroot\css\contact.css
+wwwroot\css\home.css
 wwwroot\css\Layout.css
+wwwroot\css\portfolio.css
+wwwroot\css\portfolioWide.css
+wwwroot\css\resume.css
 wwwroot\css\site.css
+wwwroot\E_Helena-1330132.webp
 wwwroot\favicon.ico
 wwwroot\Final Project Something or Other.png
+wwwroot\helenacollege.gif
+wwwroot\IMG_0037.MOV
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -63,9 +71,18 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\My Robot Arm.jpg
+wwwroot\phone.png
+wwwroot\pngwing.png
 wwwroot\Project Management.png
 wwwroot\RoboCode.png
+wwwroot\Selfie.jpg
+wwwroot\Selfie_2.jpg
+wwwroot\Selfie_3.jpg
+wwwroot\Selfie_4.jpg
+wwwroot\Selfie_5.jpg
+wwwroot\Selfie_6.jpg
 wwwroot\Sloth.jpg
 wwwroot\Systems Project.png
 wwwroot\Task 2.png
 wwwroot\Task 3.png
+wwwroot\vigilante.jpg

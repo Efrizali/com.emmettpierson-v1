@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\Application Security.png"
     },
     {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\E_Helena-1330132.webp",
+      "PackagePath": "staticwebassets\\E_Helena-1330132.webp"
+    },
+    {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Final Project Something or Other.png",
       "PackagePath": "staticwebassets\\Final Project Something or Other.png"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\IMG_0037.MOV",
+      "PackagePath": "staticwebassets\\IMG_0037.MOV"
     },
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\My Robot Arm.jpg",
@@ -23,6 +31,30 @@
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\RoboCode.png",
       "PackagePath": "staticwebassets\\RoboCode.png"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie.jpg",
+      "PackagePath": "staticwebassets\\Selfie.jpg"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_2.jpg",
+      "PackagePath": "staticwebassets\\Selfie_2.jpg"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_3.jpg",
+      "PackagePath": "staticwebassets\\Selfie_3.jpg"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_4.jpg",
+      "PackagePath": "staticwebassets\\Selfie_4.jpg"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_5.jpg",
+      "PackagePath": "staticwebassets\\Selfie_5.jpg"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_6.jpg",
+      "PackagePath": "staticwebassets\\Selfie_6.jpg"
     },
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Sloth.jpg",
@@ -41,12 +73,32 @@
       "PackagePath": "staticwebassets\\Task 3.png"
     },
     {
-      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Home.css",
-      "PackagePath": "staticwebassets\\css\\Home.css"
-    },
-    {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Layout.css",
       "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\bio.css",
+      "PackagePath": "staticwebassets\\css\\bio.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolio.css",
+      "PackagePath": "staticwebassets\\css\\portfolio.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolioWide.css",
+      "PackagePath": "staticwebassets\\css\\portfolioWide.css"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\resume.css",
+      "PackagePath": "staticwebassets\\css\\resume.css"
     },
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\site.css",
@@ -55,6 +107,10 @@
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\helenacollege.gif",
+      "PackagePath": "staticwebassets\\helenacollege.gif"
     },
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\js\\site.js",
@@ -287,6 +343,18 @@
     {
       "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\phone.png",
+      "PackagePath": "staticwebassets\\phone.png"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\pngwing.png",
+      "PackagePath": "staticwebassets\\pngwing.png"
+    },
+    {
+      "Id": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\vigilante.jpg",
+      "PackagePath": "staticwebassets\\vigilante.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmmettPierson.com.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

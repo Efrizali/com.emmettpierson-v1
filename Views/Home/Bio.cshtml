@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Biography - Emmett Pierson</title>
+
+
+
+    <link href="~/css/portfolioWide.css" rel="stylesheet">
+    <link href="~/css/bio.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="Selfie_3.jpg" id="pfp">
+        <nav>
+            <ol>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Index">EmmettPierson.com</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Bio">Biography</a>
+                </li>
+                <li>
+                    <a href="resume.html">Resume</a>
+                </li>
+                <li>
+                    <a href="portfolio.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ol>
+        </nav>
+    </header>
+
+    <p>
+        I am a dual enrollment student who managed up to 9 college and high school classes at once for 2.5 years, and
+        graduated both at the same time. I am looking for a role that challenges my skills and gives me the opportunity
+        to learn and improve in back end system development, though I have acquired some front end web development
+        skills. This website was made by me from scratch, showing my good-enough-for-a-backend-engineer HTML/CSS skills.
+    </p>
+
+    <img src="helenacollege.gif" id="college">
+    <img src="E_Helena-1330132.webp" id="highSchool">
+
+    <footer>
+        <p>
+            Thank you for viewing my site. If you want to contact me, you can do so
+            <a href="contact.html">using any of these options</a>.
+        </p>
+    </footer>
+</body>
+
+</html>

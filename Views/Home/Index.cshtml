@@ -6,22 +6,53 @@
     Layout = null;
 }
 
+<!DOCTYPE html>
+
+<html lang="en">
+
 <head>
-    <link rel="stylesheet" href="css/Home.css" type="text/css" />
+    <title>Home - Emmett Pierson</title>
+
+
+
+    <link href="~/css/portfolioWide.css" rel="stylesheet">
+    <link href="~/css/home.css" rel="stylesheet">
 </head>
 
-<html>
-
 <body>
-    <h1>Emmett Pierson</h1>
+    <header>
+        <img src="Selfie_2.jpg" id="pfp">
 
+        <nav>
+            <ol>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Index">EmmettPierson.com</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Bio">Biography</a>
+                </li>
+                <li>
+                    <a href="resume.html">Resume</a>
+                </li>
+                <li>
+                    <a href="portfolio.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ol>
+        </nav>
+    </header>
 
-    <p>
+    <p id="summary">
         I am a dual enrollment student who managed up to 9 college and high school classes at once for 2.5 years, and
         graduated both at the same time. I am looking for a role that challenges my skills and gives me the opportunity
         to learn and improve in back end system development, though I have acquired some front end web development
         skills. This website was made by me from scratch, showing my good-enough-for-a-backend-engineer HTML/CSS skills.
     </p>
+
+    <img src="helenacollege.gif" id="college">
+    <img src="E_Helena-1330132.webp" id="highSchool">
 
     <p class="outsideLinks">
         <a href="https://docs.google.com/document/d/1tnVxMRdIyzTvY9B9YYxBWR_K7F4XmjsfiI0uXzYG6pE/edit?usp=sharing"
@@ -30,7 +61,6 @@
         <a href="https://docs.google.com/document/d/1UAporVQMZdddWphHTUHLazcQdN8JLfW8PN8EZ6tkILU/edit?usp=sharing"
            target="_blank">Cover Letter Template</a>
     </p>
-
 
     <table>
         <caption>Skills</caption>
@@ -72,7 +102,7 @@
         </tr>
     </table>
 
-    <div class="odd">
+    <div>
         <h3><a href="https://github.com/Efrizali/com.emmettpierson-v1" target="_blank">The Many Final Projects</a></h3>
         <p>
             I created and published a custom website from scratch in order to serve as a portfolio. As a capstone
@@ -80,11 +110,11 @@
             Systems, and Web Design. The main page of the website is this portfolio, with accounting software built in
             to the other pages. The technologies involved are .NET Core, MVC and Razor Pages, GoDaddy for the Domain and
             DNS, and AWS for the web hosting. The resulting experience has prepared me for full stack web development.
-            Being my first website from scratch, it was a great way to learn more about the entire process. 
+            Being my first website from scratch, it was a great way to learn more about the entire process.
         </p>
-        <img src="~/Final Project Something or Other.png">
+        <img src="Final Project Something or Other.png">
     </div>
-    <div class="even">
+    <div>
         <h3><a href="https://github.com/Efrizali/Task_1-Game" target="_blank">First Game</a></h3>
         <p>
             This project was an exercise in planning ahead, since my goal was to make a console based game that I could
@@ -97,9 +127,9 @@
             despite being primitive, was a valuable experience in slowing down and thinking things through before
             implementing them.
         </p>
-        <img src="~/Task 2.png">
+        <img src="Task 2.png">
     </div>
-    <div class="odd">
+    <div>
         <h3><a href="https://github.com/Efrizali/Task_3-Meal_List" target="_blank">Meal List</a></h3>
         <p>
             This project was a foray into search algorithms and data storage. The goal of this project was to create a
@@ -112,10 +142,15 @@
             to close off the intro to Java class. I learned a lot about abstracting outside interaction in a way that
             minimizes the code that needs to change to accommodate the new database.
         </p>
-        <img src="~/Task 3.png">
+        <img src="Task 3.png">
     </div>
-    <div class="even">
-        <h3><a href="https://github.com/Efrizali/Systems_Analysis_Project" target="_blank">Analyzing Speech and Debate</a></h3>
+    <div>
+        <h3>
+            <a href="https://github.com/Efrizali/Systems_Analysis_Project" target="_blank">
+                Analyzing Speech and
+                Debate
+            </a>
+        </h3>
         <p>
             For this project, I was to work in a group to analyze the problems with the Speech and Debate conferencing
             software, determine the most important points for improvement, and recommend a new system for the project.
@@ -126,9 +161,9 @@
             presentation that summarized the paper. I learned a lot about coordinating with other people to get a large
             project done, and also about how to find alternatives to a service.
         </p>
-        <img src="~/Systems Project.png">
+        <img src="Systems Project.png">
     </div>
-    <div class="odd">
+    <div>
         <h3><a href="https://github.com/Efrizali/RoboCode" target="_blank">RoboCode</a></h3>
         <p>
             RoboCode is a coding challenge where you compete with other people to have the most powerful robot. I knew
@@ -139,10 +174,12 @@
             that consistently placed me in the top 3. This was an exercise in analysis and it was useful to learn how
             about how to read documentation for a Java class.
         </p>
-        <img src="~/RoboCode.png">
+        <img src="RoboCode.png">
     </div>
-    <div class="even">
-        <h3><a href="https://github.com/Efrizali/Application_Security" target="_blank">Application Security Paper</a></h3>
+    <div>
+        <h3>
+            <a href="https://github.com/Efrizali/Application_Security" target="_blank">Application Security Paper</a>
+        </h3>
         <p>
             This paper entailed learning about a virus and what could have been done to prevent the infection. I had
             heard about a virus called StuxNet before, and decided that was a good virus to choose. Stuxnet ended up
@@ -151,13 +188,14 @@
             rich nation who dislikes your industry, since everything I read about the targeting of the enrichment plant
             said that the virus was going to get in no matter what. The other smaller conclusion was to avoid plugging
             random usb drives into your computer, as that was the primary method of transmission for Stuxnet and it
-            gives implicit trust to the drive. The research and writing of the paper went smoothly enough, and the resulting
+            gives implicit trust to the drive. The research and writing of the paper went smoothly enough, and the
+            resulting
             presentation was a lot of fun. I learned a lot about how sophisticated viruses can get, and just how
             important cyber security is for every organization.
         </p>
-        <img src="~/Application Security.png">
+        <img src="Application Security.png">
     </div>
-    <div class="odd">
+    <div>
         <h3><a href="https://github.com/Efrizali/Project_Management" target="_blank">Project Management</a></h3>
         <p>
             Managing a project requires a thorough analysis of the work and people involved in order to allocate
@@ -168,9 +206,9 @@
             understanding of how a project can be worked on until completion. I learned a lot about how I learn and put
             my thoughts onto paper.
         </p>
-        <img src="~/Project Management.png">
+        <img src="Project Management.png">
     </div>
-    <div class="even">
+    <div>
         <h3><a href="https://github.com/Efrizali/Robot_Arm" target="_blank">Robot Arm From Scratch</a></h3>
         <p>
             This project involved many different skills working together to make one cohesive final product. I didn't
@@ -184,11 +222,20 @@
             and joystick control to ensure that I learned the most about analog and PWM controls. The final result was a
             manually controlled robot arm that resembled a crane, that was capable of picking up properly sized objects
             with its smooth plastic grippers. This project taught me a lot about electronics and how to use
-            microcontrollers.
+            microcontrollers. (ignore the battery that looks like a bomb on the left, it's perfectly safe with a fuse
+            and power switch, it's just DIY so it looks scary)
         </p>
-        <img src="~/My Robot Arm.jpg">
+        <video controls="controls" name="Robot Arm">
+            <source src="IMG_0037.MOV">
+        </video>
     </div>
-    <footer>Emmett Pierson - emmett@emmettpierson.com</footer>
+
+    <footer>
+        <p>
+            Thank you for viewing my site. If you want to contact me, you can do so
+            <a href="contact.html">using any of these options</a>.
+        </p>
+    </footer>
 </body>
 
 </html>

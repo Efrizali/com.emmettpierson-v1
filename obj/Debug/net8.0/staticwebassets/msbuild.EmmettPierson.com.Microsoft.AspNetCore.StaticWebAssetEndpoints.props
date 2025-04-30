@@ -12,17 +12,41 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SARGY23hKeUeA1mPTwTrGKTmQCNnuJ8MXJFHd9SFvuQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41778"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SARGY23hKeUeA1mPTwTrGKTmQCNnuJ8MXJFHd9SFvuQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 14:47:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/Home.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Home.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/bio.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bio.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1915"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 03:19:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TtRHv\u002BrhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"303"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TtRHv\u002BrhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:11:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/Home.j2fmwgget7.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Home.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/bio.isvjoruvar.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bio.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j2fmwgget7"},{"Name":"integrity","Value":"sha256-NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84="},{"Name":"label","Value":"_content/EmmettPierson.com/css/Home.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1915"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 03:19:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"isvjoruvar"},{"Name":"integrity","Value":"sha256-TtRHv\u002BrhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0="},{"Name":"label","Value":"_content/EmmettPierson.com/css/bio.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"303"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TtRHv\u002BrhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:11:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/contact.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\contact.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:59:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/contact.ybk4sujnz5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\contact.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ybk4sujnz5"},{"Name":"integrity","Value":"sha256-EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI="},{"Name":"label","Value":"_content/EmmettPierson.com/css/contact.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"193"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:59:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/home.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\home.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1678"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:13:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/home.kmt2scmx3y.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\home.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kmt2scmx3y"},{"Name":"integrity","Value":"sha256-fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU="},{"Name":"label","Value":"_content/EmmettPierson.com/css/home.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1678"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:13:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/Layout.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Layout.css'))</AssetFile>
@@ -35,6 +59,42 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"egn86uouql"},{"Name":"integrity","Value":"sha256-QtktoTjthceX/80Pv3\u002B6PlYkdwpTH4K9XESoTbYU4A0="},{"Name":"label","Value":"_content/EmmettPierson.com/css/Layout.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QtktoTjthceX/80Pv3\u002B6PlYkdwpTH4K9XESoTbYU4A0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 03:30:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/portfolio.272sg1b3no.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\portfolio.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"272sg1b3no"},{"Name":"integrity","Value":"sha256-Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv\u002B8KmmY="},{"Name":"label","Value":"_content/EmmettPierson.com/css/portfolio.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1158"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv\u002B8KmmY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 00:13:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/portfolio.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\portfolio.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv\u002B8KmmY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1158"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv\u002B8KmmY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 00:13:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/portfolioWide.7xzl5tk8og.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\portfolioWide.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7xzl5tk8og"},{"Name":"integrity","Value":"sha256-5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4="},{"Name":"label","Value":"_content/EmmettPierson.com/css/portfolioWide.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"781"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:50:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/portfolioWide.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\portfolioWide.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"781"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:50:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/resume.b7w4i7fr5x.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\resume.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b7w4i7fr5x"},{"Name":"integrity","Value":"sha256-\u002BQVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ="},{"Name":"label","Value":"_content/EmmettPierson.com/css/resume.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"474"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BQVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:58:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/resume.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\resume.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BQVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"474"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BQVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:58:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
@@ -60,6 +120,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-opFd2oWsEgSa5TwvcIEP66r6CAy3LRn84Pubk2MgFHk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1135"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022opFd2oWsEgSa5TwvcIEP66r6CAy3LRn84Pubk2MgFHk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 03:18:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/E_Helena-1330132.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\E_Helena-1330132.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Y\u002Bx0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9836"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Y\u002Bx0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:01:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/E_Helena-1330132.z08392vzp6.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\E_Helena-1330132.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z08392vzp6"},{"Name":"integrity","Value":"sha256-Y\u002Bx0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY="},{"Name":"label","Value":"_content/EmmettPierson.com/E_Helena-1330132.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9836"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Y\u002Bx0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:01:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -83,6 +155,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bFxc8IiVf1dD2eqgzvapos0Qj3euPdnbqQfCwmWfUe8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11727"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bFxc8IiVf1dD2eqgzvapos0Qj3euPdnbqQfCwmWfUe8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 15:33:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/helenacollege.2n5chjlpti.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\helenacollege.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2n5chjlpti"},{"Name":"integrity","Value":"sha256-cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E="},{"Name":"label","Value":"_content/EmmettPierson.com/helenacollege.gif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14851"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:00:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/helenacollege.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\helenacollege.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14851"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:00:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/IMG_0037.MOV">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IMG_0037.MOV'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-65W\u002BQ21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44526060"},{"Name":"Content-Type","Value":"video/quicktime"},{"Name":"ETag","Value":"\u002265W\u002BQ21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 22:30:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/IMG_0037.vj6bs1i5o4.MOV">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IMG_0037.MOV'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vj6bs1i5o4"},{"Name":"integrity","Value":"sha256-65W\u002BQ21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg="},{"Name":"label","Value":"_content/EmmettPierson.com/IMG_0037.MOV"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44526060"},{"Name":"Content-Type","Value":"video/quicktime"},{"Name":"ETag","Value":"\u002265W\u002BQ21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 22:30:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -792,6 +888,30 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjw2xhr0i6"},{"Name":"integrity","Value":"sha256-uJka/H65wdmkjvxUYY1FMrZ7gSjztSmnTJ8UhlYs2nM="},{"Name":"label","Value":"_content/EmmettPierson.com/My Robot Arm.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"848597"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uJka/H65wdmkjvxUYY1FMrZ7gSjztSmnTJ8UhlYs2nM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 15:12:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/phone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\phone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17233"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:55:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/phone.t6q0gbxqd6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\phone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t6q0gbxqd6"},{"Name":"integrity","Value":"sha256-lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM="},{"Name":"label","Value":"_content/EmmettPierson.com/phone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17233"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:55:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/pngwing.latpjku2w1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pngwing.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"latpjku2w1"},{"Name":"integrity","Value":"sha256-jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE="},{"Name":"label","Value":"_content/EmmettPierson.com/pngwing.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41779"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:53:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/pngwing.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pngwing.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41779"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:53:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Project Management.d6q8niujfj.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Project Management.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -815,6 +935,78 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yS8tGNXunJYavTVtAvwU\u002BMJzWGOtavtZAFBFFoDLP2Y="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77088"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yS8tGNXunJYavTVtAvwU\u002BMJzWGOtavtZAFBFFoDLP2Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 15:09:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie.il531j46ii.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"il531j46ii"},{"Name":"integrity","Value":"sha256-6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"173721"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:34:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"173721"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Apr 2025 23:34:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129703"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 02:00:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_2.t3xl2g37r6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t3xl2g37r6"},{"Name":"integrity","Value":"sha256-J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie_2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129703"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 02:00:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"235566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:55:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_3.o28ksx54xw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o28ksx54xw"},{"Name":"integrity","Value":"sha256-IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP\u002B4="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie_3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:55:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"226222"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:55:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_4.yumefm2uqq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yumefm2uqq"},{"Name":"integrity","Value":"sha256-OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie_4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"226222"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:55:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_5.fhagqoljvj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fhagqoljvj"},{"Name":"integrity","Value":"sha256-E2Orx1\u002BeL\u002BxHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie_5.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"237418"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022E2Orx1\u002BeL\u002BxHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:56:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E2Orx1\u002BeL\u002BxHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"237418"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022E2Orx1\u002BeL\u002BxHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:56:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_6.isyjvlxoe9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"isyjvlxoe9"},{"Name":"integrity","Value":"sha256-4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM="},{"Name":"label","Value":"_content/EmmettPierson.com/Selfie_6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"233735"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:56:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Selfie_6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Selfie_6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"233735"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:56:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/Sloth.2yupi71u2i.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sloth.jpg'))</AssetFile>
@@ -863,6 +1055,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jIL4tL03S73kHe9aqLu8UEa4aSPY3vvnfItO8lWAibA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"50486"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jIL4tL03S73kHe9aqLu8UEa4aSPY3vvnfItO8lWAibA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 15:03:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/vigilante.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vigilante.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5115"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:01:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmmettPierson.com/vigilante.tfmbm8rtpt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vigilante.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tfmbm8rtpt"},{"Name":"integrity","Value":"sha256-WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60="},{"Name":"label","Value":"_content/EmmettPierson.com/vigilante.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5115"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 01:01:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

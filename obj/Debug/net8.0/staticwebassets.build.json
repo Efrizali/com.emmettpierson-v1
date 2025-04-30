@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "19R2jGk+npPRsbfSeELemc8Cb9bX9rQifuSqjLmMUKo=",
+  "Hash": "jBKP5phq4HXehwjhPI/u3mqOUfr+FxGryGq/b/wUmbI=",
   "Source": "EmmettPierson.com",
   "BasePath": "_content/EmmettPierson.com",
   "Mode": "Default",
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "wwwroot\\Application Security.png"
     },
     {
-      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Home.css",
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\bio.css",
       "SourceId": "EmmettPierson.com",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
       "BasePath": "_content/EmmettPierson.com",
-      "RelativePath": "css/Home#[.{fingerprint}]?.css",
+      "RelativePath": "css/bio#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +94,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "j2fmwgget7",
-      "Integrity": "NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84=",
+      "Fingerprint": "isvjoruvar",
+      "Integrity": "TtRHv+rhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Home.css"
+      "OriginalItemSpec": "wwwroot\\css\\bio.css"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\contact.css",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "css/contact#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ybk4sujnz5",
+      "Integrity": "EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "css/home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmt2scmx3y",
+      "Integrity": "fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Layout.css",
@@ -122,6 +164,69 @@
       "OriginalItemSpec": "wwwroot\\css\\Layout.css"
     },
     {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolio.css",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "css/portfolio#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "272sg1b3no",
+      "Integrity": "Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv+8KmmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\portfolio.css"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolioWide.css",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "css/portfolioWide#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7xzl5tk8og",
+      "Integrity": "5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\portfolioWide.css"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\resume.css",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "css/resume#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7w4i7fr5x",
+      "Integrity": "+QVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\resume.css"
+    },
+    {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\site.css",
       "SourceId": "EmmettPierson.com",
       "SourceType": "Discovered",
@@ -141,6 +246,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\E_Helena-1330132.webp",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "E_Helena-1330132#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z08392vzp6",
+      "Integrity": "Y+x0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\E_Helena-1330132.webp"
     },
     {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\favicon.ico",
@@ -183,6 +309,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Final Project Something or Other.png"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\helenacollege.gif",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "helenacollege#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2n5chjlpti",
+      "Integrity": "cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\helenacollege.gif"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\IMG_0037.MOV",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "IMG_0037#[.{fingerprint}]?.MOV",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vj6bs1i5o4",
+      "Integrity": "65W+Q21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG_0037.MOV"
     },
     {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\js\\site.js",
@@ -1424,6 +1592,48 @@
       "OriginalItemSpec": "wwwroot\\My Robot Arm.jpg"
     },
     {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\phone.png",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "phone#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t6q0gbxqd6",
+      "Integrity": "lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\phone.png"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\pngwing.png",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "pngwing#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "latpjku2w1",
+      "Integrity": "jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pngwing.png"
+    },
+    {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Project Management.png",
       "SourceId": "EmmettPierson.com",
       "SourceType": "Discovered",
@@ -1464,6 +1674,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\RoboCode.png"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il531j46ii",
+      "Integrity": "6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie.jpg"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_2.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie_2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3xl2g37r6",
+      "Integrity": "J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie_2.jpg"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_3.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o28ksx54xw",
+      "Integrity": "IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie_3.jpg"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_4.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie_4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yumefm2uqq",
+      "Integrity": "OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie_4.jpg"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_5.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie_5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhagqoljvj",
+      "Integrity": "E2Orx1+eL+xHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie_5.jpg"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_6.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "Selfie_6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "isyjvlxoe9",
+      "Integrity": "4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Selfie_6.jpg"
     },
     {
       "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Sloth.jpg",
@@ -1548,6 +1884,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Task 3.png"
+    },
+    {
+      "Identity": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\vigilante.jpg",
+      "SourceId": "EmmettPierson.com",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\",
+      "BasePath": "_content/EmmettPierson.com",
+      "RelativePath": "vigilante#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tfmbm8rtpt",
+      "Integrity": "WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vigilante.jpg"
     }
   ],
   "Endpoints": [
@@ -1634,8 +1991,8 @@
       ]
     },
     {
-      "Route": "css/Home.css",
-      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Home.css",
+      "Route": "css/bio.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\bio.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1644,7 +2001,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1915"
+          "Value": "303"
         },
         {
           "Name": "Content-Type",
@@ -1652,11 +2009,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84=\""
+          "Value": "\"TtRHv+rhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 03:19:36 GMT"
+          "Value": "Wed, 30 Apr 2025 01:11:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1666,13 +2023,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84="
+          "Value": "sha256-TtRHv+rhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0="
         }
       ]
     },
     {
-      "Route": "css/Home.j2fmwgget7.css",
-      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Home.css",
+      "Route": "css/bio.isvjoruvar.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\bio.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1681,7 +2038,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1915"
+          "Value": "303"
         },
         {
           "Name": "Content-Type",
@@ -1689,11 +2046,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84=\""
+          "Value": "\"TtRHv+rhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 03:19:36 GMT"
+          "Value": "Wed, 30 Apr 2025 01:11:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1703,15 +2060,179 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j2fmwgget7"
+          "Value": "isvjoruvar"
         },
         {
           "Name": "label",
-          "Value": "css/Home.css"
+          "Value": "css/bio.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NSpQo3GQtiOmTOSwM0EW39J5MuH50LfYhlJ5g52My84="
+          "Value": "sha256-TtRHv+rhlMiFozPhpC2bx372uz1mXiFOrQygJVC46I0="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:59:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.ybk4sujnz5.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:59:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ybk4sujnz5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/contact.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvyCfbp3olPORAOVHwanRPJsXfDC0yUuyN/OVIqw3wI="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.kmt2scmx3y.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmt2scmx3y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fO57aSzmo8FjlbgXd35L134lrndVQnV/QqNWOvp/xnU="
         }
       ]
     },
@@ -1798,6 +2319,252 @@
       ]
     },
     {
+      "Route": "css/portfolio.272sg1b3no.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolio.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv+8KmmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 00:13:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "272sg1b3no"
+        },
+        {
+          "Name": "label",
+          "Value": "css/portfolio.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv+8KmmY="
+        }
+      ]
+    },
+    {
+      "Route": "css/portfolio.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolio.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv+8KmmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 00:13:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh4wl7HViosJywIhVfzaOJq5UEY5DAJdI5ZVv+8KmmY="
+        }
+      ]
+    },
+    {
+      "Route": "css/portfolioWide.7xzl5tk8og.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolioWide.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:50:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xzl5tk8og"
+        },
+        {
+          "Name": "label",
+          "Value": "css/portfolioWide.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4="
+        }
+      ]
+    },
+    {
+      "Route": "css/portfolioWide.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\portfolioWide.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:50:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5V3UobPLqJ6g3iXYLt4SQnmZPXY2LgFMvaZFIcERua4="
+        }
+      ]
+    },
+    {
+      "Route": "css/resume.b7w4i7fr5x.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\resume.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7w4i7fr5x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/resume.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/resume.css",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\resume.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QVZ4i5xaMnEg76QNAig7Ze5KRRo83c7AgI3CsydvSQ="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1876,6 +2643,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-iXYVsT5tb7sFFzEniSSgsGleApUfxNMOTcAnHO8fh6Q="
+        }
+      ]
+    },
+    {
+      "Route": "E_Helena-1330132.webp",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\E_Helena-1330132.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+x0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+x0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY="
+        }
+      ]
+    },
+    {
+      "Route": "E_Helena-1330132.z08392vzp6.webp",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\E_Helena-1330132.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+x0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:01:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z08392vzp6"
+        },
+        {
+          "Name": "label",
+          "Value": "E_Helena-1330132.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+x0wv4SjZY2RuXiBp4Ga53KmoI3YwvvoR/fAlqu1iY="
         }
       ]
     },
@@ -2204,6 +3053,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-bFxc8IiVf1dD2eqgzvapos0Qj3euPdnbqQfCwmWfUe8="
+        }
+      ]
+    },
+    {
+      "Route": "helenacollege.2n5chjlpti.gif",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\helenacollege.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2n5chjlpti"
+        },
+        {
+          "Name": "label",
+          "Value": "helenacollege.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E="
+        }
+      ]
+    },
+    {
+      "Route": "helenacollege.gif",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\helenacollege.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cutjzEApJQetbHRMEDEMbly7Mc401D/5tTS8w/8GH5E="
+        }
+      ]
+    },
+    {
+      "Route": "IMG_0037.MOV",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\IMG_0037.MOV",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44526060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/quicktime"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65W+Q21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 22:30:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-65W+Q21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg="
+        }
+      ]
+    },
+    {
+      "Route": "IMG_0037.vj6bs1i5o4.MOV",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\IMG_0037.MOV",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44526060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/quicktime"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65W+Q21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 22:30:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vj6bs1i5o4"
+        },
+        {
+          "Name": "label",
+          "Value": "IMG_0037.MOV"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-65W+Q21wCxxgVhC5pZIE1p4hrcgczKpscTHqztFVKTg="
         }
       ]
     },
@@ -7046,6 +8059,170 @@
       ]
     },
     {
+      "Route": "phone.png",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\phone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:55:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM="
+        }
+      ]
+    },
+    {
+      "Route": "phone.t6q0gbxqd6.png",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\phone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:55:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t6q0gbxqd6"
+        },
+        {
+          "Name": "label",
+          "Value": "phone.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTCIfQ1bsoE2EzWHKI81WXbNzakAcatuCKYlyF2OzGM="
+        }
+      ]
+    },
+    {
+      "Route": "pngwing.latpjku2w1.png",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\pngwing.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "latpjku2w1"
+        },
+        {
+          "Name": "label",
+          "Value": "pngwing.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE="
+        }
+      ]
+    },
+    {
+      "Route": "pngwing.png",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\pngwing.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jYNCZ14tNwpC3SqNWqe6KqH8v7/2BkD2rAL90Qc8WGE="
+        }
+      ]
+    },
+    {
       "Route": "Project Management.d6q8niujfj.png",
       "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Project Management.png",
       "Selectors": [],
@@ -7206,6 +8383,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-yS8tGNXunJYavTVtAvwU+MJzWGOtavtZAFBFFoDLP2Y="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie.il531j46ii.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il531j46ii"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 23:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jMOIlsrisyVr7EbN16SZRQuFw6pOILyp6YLz7p0b48="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_2.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 02:00:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_2.t3xl2g37r6.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 02:00:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3xl2g37r6"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie_2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/PeP91izlzM0t4GgBSk3KdjY8ZFT68a9oc7WiRqHl4="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_3.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:55:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP+4="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_3.o28ksx54xw.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:55:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o28ksx54xw"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IIo/LBz9DiDnlaB70fXwzLZn4SS1/fI74AvMWOTCP+4="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_4.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_4.yumefm2uqq.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:55:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yumefm2uqq"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie_4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OpJAO/8gUm89x2JHLi/AzRUIf2wqGHtB1eVZFNc6xmo="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_5.fhagqoljvj.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2Orx1+eL+xHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:56:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhagqoljvj"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie_5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2Orx1+eL+xHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_5.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2Orx1+eL+xHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:56:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2Orx1+eL+xHxs/wvNluMnZMsEQuVxISn0E9LbrYtpg="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_6.isyjvlxoe9.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "isyjvlxoe9"
+        },
+        {
+          "Name": "label",
+          "Value": "Selfie_6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM="
+        }
+      ]
+    },
+    {
+      "Route": "Selfie_6.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\Selfie_6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jlBAy7B7NYTPrvtPPl04o6zG6RHBGYps0J5MeKTHaM="
         }
       ]
     },
@@ -7534,6 +9203,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jIL4tL03S73kHe9aqLu8UEa4aSPY3vvnfItO8lWAibA="
+        }
+      ]
+    },
+    {
+      "Route": "vigilante.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\vigilante.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:01:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60="
+        }
+      ]
+    },
+    {
+      "Route": "vigilante.tfmbm8rtpt.jpg",
+      "AssetFile": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\vigilante.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 01:01:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tfmbm8rtpt"
+        },
+        {
+          "Name": "label",
+          "Value": "vigilante.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSzCVbYfw78g7JJrUPkCh1x/89bn9p157RDU7/NGC60="
         }
       ]
     }
