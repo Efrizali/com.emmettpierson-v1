@@ -11,7 +11,6 @@ namespace EmmettPierson.com.Controllers
         public HomeController(ILogger<HomeController> logger, LedgerContext db)
         {
             _logger = logger;
-            db.Database.EnsureCreated();
         }
 
         public IActionResult Index()

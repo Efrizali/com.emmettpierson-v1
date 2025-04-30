@@ -5,8 +5,72 @@
   ],
   "Root": {
     "Children": {
+      "Application Security.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Application Security.png"
+        },
+        "Patterns": null
+      },
       "css": {
         "Children": {
+          "bio.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/bio.css"
+            },
+            "Patterns": null
+          },
+          "contact.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/contact.css"
+            },
+            "Patterns": null
+          },
+          "home.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/home.css"
+            },
+            "Patterns": null
+          },
+          "Layout.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/Layout.css"
+            },
+            "Patterns": null
+          },
+          "portfolio.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/portfolio.css"
+            },
+            "Patterns": null
+          },
+          "portfolioWide.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/portfolioWide.css"
+            },
+            "Patterns": null
+          },
+          "resume.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/resume.css"
+            },
+            "Patterns": null
+          },
           "site.css": {
             "Children": null,
             "Asset": {
@@ -19,11 +83,43 @@
         "Asset": null,
         "Patterns": null
       },
+      "E_Helena-1330132.webp": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "E_Helena-1330132.webp"
+        },
+        "Patterns": null
+      },
       "favicon.ico": {
         "Children": null,
         "Asset": {
           "ContentRootIndex": 0,
           "SubPath": "favicon.ico"
+        },
+        "Patterns": null
+      },
+      "Final Project Something or Other.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Final Project Something or Other.png"
+        },
+        "Patterns": null
+      },
+      "helenacollege.gif": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "helenacollege.gif"
+        },
+        "Patterns": null
+      },
+      "IMG_0037.MOV": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "IMG_0037.MOV"
         },
         "Patterns": null
       },
@@ -555,6 +651,134 @@
           }
         },
         "Asset": null,
+        "Patterns": null
+      },
+      "My Robot Arm.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "My Robot Arm.jpg"
+        },
+        "Patterns": null
+      },
+      "phone.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "phone.png"
+        },
+        "Patterns": null
+      },
+      "pngwing.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "pngwing.png"
+        },
+        "Patterns": null
+      },
+      "Project Management.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Project Management.png"
+        },
+        "Patterns": null
+      },
+      "RoboCode.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "RoboCode.png"
+        },
+        "Patterns": null
+      },
+      "Selfie.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie.jpg"
+        },
+        "Patterns": null
+      },
+      "Selfie_2.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie_2.jpg"
+        },
+        "Patterns": null
+      },
+      "Selfie_3.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie_3.jpg"
+        },
+        "Patterns": null
+      },
+      "Selfie_4.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie_4.jpg"
+        },
+        "Patterns": null
+      },
+      "Selfie_5.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie_5.jpg"
+        },
+        "Patterns": null
+      },
+      "Selfie_6.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Selfie_6.jpg"
+        },
+        "Patterns": null
+      },
+      "Sloth.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Sloth.jpg"
+        },
+        "Patterns": null
+      },
+      "Systems Project.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Systems Project.png"
+        },
+        "Patterns": null
+      },
+      "Task 2.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Task 2.png"
+        },
+        "Patterns": null
+      },
+      "Task 3.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Task 3.png"
+        },
+        "Patterns": null
+      },
+      "vigilante.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "vigilante.jpg"
+        },
         "Patterns": null
       },
       "EmmettPierson.com.styles.css": {
