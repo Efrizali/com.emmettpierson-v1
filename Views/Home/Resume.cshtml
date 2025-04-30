@@ -1,5 +1,66 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
 @{
+    Layout = null;
 }
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Resume - Emmett Pierson</title>
+
+
+
+    <link href="~/css/portfolioWide.css" rel="stylesheet">
+    <link href="~/css/resume.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="~/Selfie_4.jpg" id="pfp">
+        <nav>
+            <ol>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Index">EmmettPierson.com</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Bio">Biography</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Resume">Resume</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Portfolio">Portfolio</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                </li>
+            </ol>
+        </nav>
+    </header>
+
+    <p class="outsideLinks">
+        <a href="https://docs.google.com/document/d/1tnVxMRdIyzTvY9B9YYxBWR_K7F4XmjsfiI0uXzYG6pE/edit?usp=sharing"
+           target="_blank">Resume</a>
+        -
+        <a href="https://docs.google.com/document/d/1UAporVQMZdddWphHTUHLazcQdN8JLfW8PN8EZ6tkILU/edit?usp=sharing"
+           target="_blank">Cover Letter Template</a>
+    </p>
+
+    <p>
+        My resume and cover letter are linked externally so that when I make changes to them you can see them in real
+        time, and can save the file however you like.
+    </p>
+
+    <img src="~/Selfie.jpg">
+
+    <footer>
+        <p>
+            Thank you for viewing my site. If you want to contact me, you can do so
+            <a href="contact.html">using any of these options</a>.
+        </p>
+    </footer>
+</body>
+
+</html>

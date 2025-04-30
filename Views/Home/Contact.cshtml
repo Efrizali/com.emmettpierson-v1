@@ -1,5 +1,60 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
 @{
+    Layout = null;
 }
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Contact - Emmett Pierson</title>
+
+
+
+    <link href="~/css/portfolioWide.css" rel="stylesheet">
+    <link href="~/css/contact.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="~/Selfie_5.jpg" id="pfp">
+
+        <nav>
+            <ol>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Index">EmmettPierson.com</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Bio">Biography</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Resume">Resume</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Portfolio">Portfolio</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                </li>
+            </ol>
+        </nav>
+    </header>
+
+    <ul>
+        <li>
+            Email: emmett@emmettpierson.com <a href="mailto:emmett@emmettpierson.com"><img src="~/pngwing.png"></a>
+        </li>
+        <li>
+            Phone: (406) 417-0907 <a href="tel:+4064170907"><img src="~/phone.png"></a>
+        </li>
+    </ul>
+
+    <footer>
+        <p>
+            Thank you for viewing my site. If you want to contact me, you can do so
+            <a href="contact.html">using any of these options</a>.
+        </p>
+    </footer>
+</body>
+
+</html>

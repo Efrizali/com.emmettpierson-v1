@@ -1,7 +1,4 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
-}
-@{
     Layout = null;
 }
 
@@ -20,7 +17,7 @@
 
 <body>
     <header>
-        <img src="Selfie_3.jpg" id="pfp">
+        <img src="~/Selfie_3.jpg" id="pfp">
         <nav>
             <ol>
                 <li>
@@ -30,13 +27,13 @@
                     <a asp-area="" asp-controller="Home" asp-action="Bio">Biography</a>
                 </li>
                 <li>
-                    <a href="resume.html">Resume</a>
+                    <a asp-area="" asp-controller="Home" asp-action="Resume">Resume</a>
                 </li>
                 <li>
-                    <a href="portfolio.html">Portfolio</a>
+                    <a asp-area="" asp-controller="Home" asp-action="Portfolio">Portfolio</a>
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
                 </li>
             </ol>
         </nav>
@@ -49,8 +46,8 @@
         skills. This website was made by me from scratch, showing my good-enough-for-a-backend-engineer HTML/CSS skills.
     </p>
 
-    <img src="helenacollege.gif" id="college">
-    <img src="E_Helena-1330132.webp" id="highSchool">
+    <img src="~/helenacollege.gif" id="college">
+    <img src="~/E_Helena-1330132.webp" id="highSchool">
 
     <footer>
         <p>
