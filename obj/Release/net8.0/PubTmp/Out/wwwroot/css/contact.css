@@ -1,0 +1,14 @@
+li {
+    font-size: 18px;
+    list-style-type: none;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li img {
+    height: 18px;
+
+    object-fit: contain;
+    overflow: hidden;
+}

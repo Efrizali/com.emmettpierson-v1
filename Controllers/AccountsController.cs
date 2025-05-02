@@ -19,6 +19,30 @@ namespace EmmettPierson.com.Controllers
             _context = context;
         }
 
+        // GET: Balance
+        public async Task<IActionResult> Bal(int id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var account = await _context.Account.FirstOrDefaultAsync(m => m.Id == id);
+
+            if (account == null)
+            {
+                return NotFound();
+            }
+
+            List<Transaction> transactions = _context.Transactions.Where(t => t.AccountId == id).ToList();
+
+            transactions.Sort((t1, t2) => -t1.TransactionDate.CompareTo(t2.TransactionDate));
+
+            Balance bal = new Balance(account, id, transactions);
+
+            return View(bal);
+        }
+
         // GET: Accounts
         public async Task<IActionResult> Index()
         {

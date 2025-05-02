@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EmmettPierson.com.Models;
+using Microsoft.Identity.Client;
 
 namespace EmmettPierson.com.Controllers
 {
@@ -48,7 +49,6 @@ namespace EmmettPierson.com.Controllers
         public IActionResult Create()
         {
             ViewData["AccountId"] = new SelectList(_context.Account, "Id", "Id");
-            //ViewData["Category"] = new SelectList(_context.Transactions, "Category", "Category");
             return View();
         }
 
@@ -57,13 +57,13 @@ namespace EmmettPierson.com.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(int accountId, bool isNewBalance, double amount, string description, string category)
+        public async Task<IActionResult> Create(int accountId, bool isNewBalance, double amount, string descrition, string category)
         //[Bind("Id,AccountId,IsNewBalance,Amount,Descrition,Category")] Transaction transaction
         {
             Transaction transaction = new Transaction();
             if (ModelState.IsValid)
             {
-                transaction = new Transaction(accountId, isNewBalance, amount, description, category, DateTime.Now);
+                transaction = new Transaction(accountId, isNewBalance, amount, descrition, category, DateTime.Now);
                 _context.Add(transaction);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

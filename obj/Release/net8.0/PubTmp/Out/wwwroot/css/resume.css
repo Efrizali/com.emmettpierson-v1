@@ -1,0 +1,31 @@
+.outsideLinks {
+    margin: auto;
+    margin-top: 25px;
+    width: fit-content;
+}
+
+.outsideLinks>a {
+    padding: 3px;
+    border-style: groove;
+    border-radius: 5px;
+}
+
+body>p {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 60%;
+    min-width: 200px;
+
+    font-size: 18px;
+
+    text-align: center;
+}
+
+body>img {
+    display: block;
+    margin: auto;
+    width: 60%;
+    min-width: 200px;
+    max-width: 500px;
+}

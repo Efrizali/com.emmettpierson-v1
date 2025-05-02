@@ -3,91 +3,28 @@
   "WorkspaceRootPath": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\home\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\home\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmmettPiersonV1/True/SqlTable/dbo.Account.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\newtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\newtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\ledgercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:ledgercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,24 +34,25 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:31:25.258Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "LedgerContext.cs",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\LedgerContext.cs",
               "RelativeDocumentMoniker": "LedgerContext.cs",
@@ -123,7 +61,36 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:32:56.336Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:49:31.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:45:41.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -147,243 +114,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-30T04:48:48.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T02:27:48.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Portfolio.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Portfolio.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Portfolio.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Portfolio.cshtml",
-              "RelativeToolTip": "Views\\Home\\Portfolio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T02:27:06.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resume.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Resume.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Resume.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Resume.cshtml",
-              "RelativeToolTip": "Views\\Home\\Resume.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T02:21:20.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bio.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Bio.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Bio.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Bio.cshtml",
-              "RelativeToolTip": "Views\\Home\\Bio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T02:19:40.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T02:11:03.32Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T02:06:29.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T02:19:55.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "home.css",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\home.css",
-              "RelativeToolTip": "wwwroot\\css\\home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-25T02:27:37.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwG0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:49:31.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "dbo.Account.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmmettPiersonV1/True/SqlTable/dbo.Account.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmmettPiersonV1/True/SqlTable/dbo.Account.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-25T15:33:36.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Transactions\\Create.cshtml",
               "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\Create.cshtml",
               "RelativeToolTip": "Views\\Transactions\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T15:36:51.633Z"
+              "WhenOpened": "2025-05-02T04:38:51.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TransactionsController.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
-              "RelativeToolTip": "Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NewTransaction.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\NewTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\NewTransaction.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\NewTransaction.cs",
+              "RelativeToolTip": "Models\\NewTransaction.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:45:41.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Accounts\\Create.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Create.cshtml",
-              "RelativeToolTip": "Views\\Accounts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T03:43:14.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Layout.css",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Layout.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Layout.css",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\wwwroot\\css\\Layout.css",
-              "RelativeToolTip": "wwwroot\\css\\Layout.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-25T03:30:13.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Models\\Transaction.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Transaction.cs",
-              "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:29:01.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Models\\Account.cs",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Account.cs",
-              "RelativeToolTip": "Models\\Account.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:27:17.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Accounts\\Edit.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Accounts\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T15:23:37.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Accounts\\Details.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Details.cshtml",
-              "RelativeToolTip": "Views\\Accounts\\Details.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T03:59:31.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
-              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Accounts\\Index.cshtml",
-              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T04:00:34.093Z"
+              "WhenOpened": "2025-05-02T04:41:07.137Z",
+              "EditorCaption": ""
             }
           ]
         }
