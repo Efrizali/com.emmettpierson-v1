@@ -78,12 +78,12 @@ namespace EmmettPierson.com.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(string firstName, string lastName, string email, string salt)
+        public async Task<IActionResult> Create(string firstName, string lastName, string email, string salt, double positiveInterest, double negativeInterest)
         {
             Account account = new Account();
             if (ModelState.IsValid)
             {
-                account = new Account(firstName, lastName, email, salt); // salt means password, actual salt is random
+                account = new Account(firstName, lastName, email, salt, positiveInterest, negativeInterest); // salt means password, actual salt is random
                 _context.Add(account);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -112,7 +112,7 @@ namespace EmmettPierson.com.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, string firstName, string lastName, string email, string salt)
+        public async Task<IActionResult> Edit(int id, string firstName, string lastName, string email, string salt, double positiveInterest, double negativeInterest)
         {
             if (ModelState.IsValid)
             {
@@ -128,7 +128,10 @@ namespace EmmettPierson.com.Controllers
                     account.FirstName = firstName;
                     account.LastName = lastName;
                     account.Email = email;
+                    account.PositiveInterest = positiveInterest;
+                    account.NegativeInterest = negativeInterest;
                     account.ChangePassword(salt); // Salt means password right now
+
                     _context.Update(account);
                     await _context.SaveChangesAsync();
                 }

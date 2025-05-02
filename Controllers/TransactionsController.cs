@@ -58,7 +58,6 @@ namespace EmmettPierson.com.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(int accountId, bool isNewBalance, double amount, string descrition, string category)
-        //[Bind("Id,AccountId,IsNewBalance,Amount,Descrition,Category")] Transaction transaction
         {
             Transaction transaction = new Transaction();
             if (ModelState.IsValid)

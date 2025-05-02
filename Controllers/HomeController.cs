@@ -6,11 +6,14 @@ namespace EmmettPierson.com.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly LedgerContext _context;
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger, LedgerContext db)
         {
             _logger = logger;
+            _context = db;
+            db.Database.EnsureCreated();
         }
 
         public IActionResult Index()

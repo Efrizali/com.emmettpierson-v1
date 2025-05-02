@@ -18,6 +18,8 @@
             Transactions = transactions;
             Total = 0;
 
+
+            // Calculates the total
             if (transactions == null)
             {
                 return;
@@ -37,6 +39,8 @@
             {
                 Total += t.Amount;
             }
+
+            // Calculates interest
         }
     }
 }

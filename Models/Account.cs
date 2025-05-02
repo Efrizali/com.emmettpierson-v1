@@ -19,6 +19,10 @@ namespace EmmettPierson.com.Models
         [MaxLength(100)]
         public string Email { get; set; }
 
+        public double PositiveInterest { get; set; }
+
+        public double NegativeInterest { get; set; }
+
         [MaxLength(50)]
         public string Salt { get; set; }
 
@@ -32,7 +36,7 @@ namespace EmmettPierson.com.Models
         {
         }
 
-        public Account(string firstName, string lastName, string email, string password) 
+        public Account(string firstName, string lastName, string email, string password, double positiveInterest, double negativeInterest) 
         {
             Id = 0;
             FirstName = firstName;
@@ -41,6 +45,8 @@ namespace EmmettPierson.com.Models
             Salt = GetNewSalt();
             Hash = GetHash(Salt, password);
             Password = password; // Amazingly secure, I know
+            PositiveInterest = positiveInterest;
+            NegativeInterest = negativeInterest;
         }
 
         public void ChangePassword(string newPassword)

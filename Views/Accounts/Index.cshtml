@@ -25,11 +25,17 @@
                 @Html.DisplayNameFor(model => model.Salt)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.PositiveInterest)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NegativeInterest)
+            </th>
+            @* <th>
                 @Html.DisplayNameFor(model => model.Hash)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Password)
-            </th>
+            </th> *@
             <th></th>
         </tr>
     </thead>
@@ -46,11 +52,17 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Salt)
+                @Html.DisplayFor(modelItem => item.PositiveInterest)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Hash)
+                @Html.DisplayFor(modelItem => item.NegativeInterest)
             </td>
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.Salt) *@
+            @* </td> *@
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.Hash) *@
+            @* </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.Password)
             </td>
@@ -62,6 +74,5 @@
             </td>
         </tr>
 }
-        <a asp-action="Balance">View Balances</a>
     </tbody>
 </table>
