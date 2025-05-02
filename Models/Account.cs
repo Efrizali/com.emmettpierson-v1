@@ -49,6 +49,21 @@ namespace EmmettPierson.com.Models
             NegativeInterest = negativeInterest;
         }
 
+        public bool CheckPassword(string password)
+        {
+            if (password == null | password == "")
+            {
+                return false;
+            }
+
+            if (Hash == GetHash(Salt, password))
+            {
+                return true;
+            }
+
+            return false;
+        }
+
         public void ChangePassword(string newPassword)
         {
             Password = newPassword;
