@@ -11,10 +11,11 @@
         {
 
         }
-        public Balance(Account account, int accountId, List<Transaction> transactions)
+        public Balance(Account account, List<Transaction> transactions)
         {
+
             Account = account;
-            AccountId = accountId;
+            AccountId = account.Id;
             Transactions = transactions;
             Total = 0;
 
@@ -39,8 +40,6 @@
             {
                 Total += t.Amount;
             }
-
-            // Calculates interest
         }
     }
 }

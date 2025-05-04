@@ -22,7 +22,7 @@ namespace EmmettPierson.com.Controllers
         // GET: Balance
         public async Task<IActionResult> Bal(int id)
         {
-            if (id == null)
+            if (id <= 0)
             {
                 return NotFound();
             }
@@ -38,7 +38,7 @@ namespace EmmettPierson.com.Controllers
 
             transactions.Sort((t1, t2) => -t1.TransactionDate.CompareTo(t2.TransactionDate));
 
-            Balance bal = new Balance(account, id, transactions);
+            Balance bal = new Balance(account, transactions);
 
             return View(bal);
         }

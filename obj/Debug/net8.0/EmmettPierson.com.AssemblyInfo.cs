@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmmettPierson.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52389510df3cf1892e21e3a823b906c754035ef7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ae11c453024d327b01c966795ed4177bcae9d28")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmmettPierson.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmmettPierson.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

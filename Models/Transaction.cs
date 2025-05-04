@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Humanizer;
+using System.ComponentModel.DataAnnotations;
 
 namespace EmmettPierson.com.Models
 {
@@ -35,6 +36,32 @@ namespace EmmettPierson.com.Models
             Descrition = descrition;
             Category = category;
             TransactionDate = transactionDate;
+        }
+
+        public static Transaction GetInterestTransaction(Account account, double principal, DateTime date)
+        {
+            Transaction transaction = new Transaction();
+
+            transaction.Id = 0;
+            transaction.Account = account;
+            transaction.AccountId = account.Id;
+            transaction.TransactionDate = date.AtNoon();
+            transaction.IsNewBalance = false;
+            transaction.Descrition = "Daily Interest";
+            transaction.Category = "Interest";
+
+            if (principal >= 0)
+            {
+                transaction.Amount = principal * (account.PositiveInterest / 365);
+            } 
+            else
+            {
+                transaction.Amount = principal * (account.NegativeInterest / 365);
+            }
+
+            transaction.Amount = Math.Round(transaction.Amount, 2);
+
+            return transaction;
         }
     }
 }

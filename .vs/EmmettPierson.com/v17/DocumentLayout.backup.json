@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\transactions\\calculateinterest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\transactions\\calculateinterest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\models\\calculateinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|solutionrelative:models\\calculateinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3F0DA0B-568D-469E-8EFB-24CD3B53121F}|EmmettPierson.com.csproj|c:\\my files\\classes\\final project\\com.emmettpierson-v1\\ledgercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -39,11 +63,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:31:25.258Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LedgerContext.cs",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\LedgerContext.cs",
               "RelativeDocumentMoniker": "LedgerContext.cs",
@@ -52,18 +77,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T04:32:56.336Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
               "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAswE4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T03:49:31.59Z",
               "IsPinned": true,
@@ -77,7 +101,7 @@
               "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
               "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwJMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T03:45:41.345Z",
               "IsPinned": true,
@@ -102,6 +126,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Balance.cs",
+              "RelativeDocumentMoniker": "Models\\Balance.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Balance.cs",
+              "RelativeToolTip": "Models\\Balance.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:18:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateInterest.cshtml",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\CalculateInterest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\CalculateInterest.cshtml",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\CalculateInterest.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\CalculateInterest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T00:14:00.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwD0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:10:02.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T23:57:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:20:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculateInterest.cs",
+              "DocumentMoniker": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\CalculateInterest.cs",
+              "RelativeDocumentMoniker": "Models\\CalculateInterest.cs",
+              "ToolTip": "C:\\My Files\\Classes\\Final Project\\com.emmettpierson-v1\\Models\\CalculateInterest.cs",
+              "RelativeToolTip": "Models\\CalculateInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:00:20.421Z",
+              "EditorCaption": ""
             }
           ]
         }
