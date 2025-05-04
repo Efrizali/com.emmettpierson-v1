@@ -51,37 +51,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "AWSSDK.ECS": {
-              "target": "Package",
-              "version": "[4.0.0.1, )"
-            },
-            "AWSSDK.Lambda": {
-              "target": "Package",
-              "version": "[4.0.0.1, )"
-            },
-            "AWSSDK.RDS": {
-              "target": "Package",
-              "version": "[4.0.0.1, )"
-            },
-            "Amazon.Lambda.AspNetCoreServer": {
-              "target": "Package",
-              "version": "[9.1.0, )"
-            },
-            "Amazon.Lambda.Core": {
-              "target": "Package",
-              "version": "[2.5.1, )"
-            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
-            },
-            "Htmx": {
-              "target": "Package",
-              "version": "[1.8.1, )"
-            },
-            "Htmx.TagHelpers": {
-              "target": "Package",
-              "version": "[1.8.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

@@ -8,14 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "EmmettPierson.com/1.0.0": {
         "dependencies": {
-          "AWSSDK.ECS": "4.0.0.1",
-          "AWSSDK.Lambda": "4.0.0.1",
-          "AWSSDK.RDS": "4.0.0.1",
-          "Amazon.Lambda.AspNetCoreServer": "9.1.0",
-          "Amazon.Lambda.Core": "2.5.1",
           "FluentValidation": "11.11.0",
-          "Htmx": "1.8.1",
-          "Htmx.TagHelpers": "1.8.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.15",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.2",
@@ -23,111 +16,6 @@
         },
         "runtime": {
           "EmmettPierson.com.dll": {}
-        }
-      },
-      "Amazon.Lambda.APIGatewayEvents/2.7.1": {
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.2.0.0"
-          }
-        }
-      },
-      "Amazon.Lambda.ApplicationLoadBalancerEvents/2.2.0": {
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.ApplicationLoadBalancerEvents.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Amazon.Lambda.AspNetCoreServer/9.1.0": {
-        "dependencies": {
-          "Amazon.Lambda.APIGatewayEvents": "2.7.1",
-          "Amazon.Lambda.ApplicationLoadBalancerEvents": "2.2.0",
-          "Amazon.Lambda.Core": "2.5.1",
-          "Amazon.Lambda.Logging.AspNetCore": "3.1.1",
-          "Amazon.Lambda.Serialization.SystemTextJson": "2.4.4"
-        },
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.AspNetCoreServer.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.4.0"
-          }
-        }
-      },
-      "Amazon.Lambda.Core/2.5.1": {
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.Core.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Amazon.Lambda.Logging.AspNetCore/3.1.1": {
-        "dependencies": {
-          "Amazon.Lambda.Core": "2.5.1",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.4",
-          "Microsoft.Extensions.Logging": "9.0.4",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.4"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Amazon.Lambda.Logging.AspNetCore.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
-          }
-        }
-      },
-      "Amazon.Lambda.Serialization.SystemTextJson/2.4.4": {
-        "dependencies": {
-          "Amazon.Lambda.Core": "2.5.1"
-        },
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "AWSSDK.Core/4.0.0.2": {
-        "runtime": {
-          "lib/net8.0/AWSSDK.Core.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.2"
-          }
-        }
-      },
-      "AWSSDK.ECS/4.0.0.1": {
-        "dependencies": {
-          "AWSSDK.Core": "4.0.0.2"
-        },
-        "runtime": {
-          "lib/net8.0/AWSSDK.ECS.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.1"
-          }
-        }
-      },
-      "AWSSDK.Lambda/4.0.0.1": {
-        "dependencies": {
-          "AWSSDK.Core": "4.0.0.2"
-        },
-        "runtime": {
-          "lib/net8.0/AWSSDK.Lambda.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.1"
-          }
-        }
-      },
-      "AWSSDK.RDS/4.0.0.1": {
-        "dependencies": {
-          "AWSSDK.Core": "4.0.0.2"
-        },
-        "runtime": {
-          "lib/net8.0/AWSSDK.RDS.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.0.1"
-          }
         }
       },
       "Azure.Core/1.38.0": {
@@ -170,25 +58,6 @@
           "lib/net8.0/FluentValidation.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.11.0.0"
-          }
-        }
-      },
-      "Htmx/1.8.1": {
-        "dependencies": {
-          "System.Text.Json": "9.0.4"
-        },
-        "runtime": {
-          "lib/net6.0/Htmx.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.8.1.0"
-          }
-        }
-      },
-      "Htmx.TagHelpers/1.8.1": {
-        "runtime": {
-          "lib/net6.0/Htmx.TagHelpers.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.8.1.0"
           }
         }
       },
@@ -2117,76 +1986,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Amazon.Lambda.APIGatewayEvents/2.7.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ORuKOBjquor/clDL5ogeUoKEHt/iRmaC673gFpNzpwF5VkJ7LRvQc4MYnkeIexnXEwdS7yTkM4eSu9wzORi/wg==",
-      "path": "amazon.lambda.apigatewayevents/2.7.1",
-      "hashPath": "amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512"
-    },
-    "Amazon.Lambda.ApplicationLoadBalancerEvents/2.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UtCd9tFuVyED8+DmDKEkdXJbAb/TdHIz51R/CsJCexKerO6HGOG87FGId4Ce9IXE+qjlBGyNQsKCw9oLLNe0hw==",
-      "path": "amazon.lambda.applicationloadbalancerevents/2.2.0",
-      "hashPath": "amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512"
-    },
-    "Amazon.Lambda.AspNetCoreServer/9.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-g6cVnBDYoMI+bAcDT86fJ3Mr63iWlNMPCckg7/+b6lPnp/TdQYAA9nZVzLrXJ5NR+r66cX9SZgSC7K808Jjgrg==",
-      "path": "amazon.lambda.aspnetcoreserver/9.1.0",
-      "hashPath": "amazon.lambda.aspnetcoreserver.9.1.0.nupkg.sha512"
-    },
-    "Amazon.Lambda.Core/2.5.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-84MTU67ZU+KMaT8V2C/76UCu3J77hTrDpiThlvUQLiNQMtpfF+9yHdVC4GEtoWGOGtItOaoBB0sdEE2V13qL9Q==",
-      "path": "amazon.lambda.core/2.5.1",
-      "hashPath": "amazon.lambda.core.2.5.1.nupkg.sha512"
-    },
-    "Amazon.Lambda.Logging.AspNetCore/3.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-q7ZUrjVulikcV8+hMIrAk+LJe3xQsdWCtM/yS0enjajopOuit71xYAJhrT1eXstvZMpqfg+B7gCUJboN9lHG9g==",
-      "path": "amazon.lambda.logging.aspnetcore/3.1.1",
-      "hashPath": "amazon.lambda.logging.aspnetcore.3.1.1.nupkg.sha512"
-    },
-    "Amazon.Lambda.Serialization.SystemTextJson/2.4.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-iv/cvqFuZ3v3+NFDyof0IJZvU+4kdpzOe3pWSBwp9HB885I+D32WQxuid9V4GnvRynER9XnWMPaDmImX8qH5cA==",
-      "path": "amazon.lambda.serialization.systemtextjson/2.4.4",
-      "hashPath": "amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512"
-    },
-    "AWSSDK.Core/4.0.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-vXDAkmIB8xMmtnWubDq/uZhpfTXKAHicnTQTJBjkjNvom7eaHf5r0OB3Be+cXzzcQl4O1UOOAYHyN436JSCUlA==",
-      "path": "awssdk.core/4.0.0.2",
-      "hashPath": "awssdk.core.4.0.0.2.nupkg.sha512"
-    },
-    "AWSSDK.ECS/4.0.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-EZ41AT/5Aq4uKxjwzUlVB+LrmQVFL2us+ZQ0VKhENuNYCRT2egUc6LV8lK4at/HNJMDhq/cE7BKBLsc0wKptpg==",
-      "path": "awssdk.ecs/4.0.0.1",
-      "hashPath": "awssdk.ecs.4.0.0.1.nupkg.sha512"
-    },
-    "AWSSDK.Lambda/4.0.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-y+I1jnYV6Xa78jgHbSQig0t4lAh6PQf1k/LiQdqSIMzi/gEe0MA67URGSZ5QZgwuikxtS7ZkXvw+840pFQTCcA==",
-      "path": "awssdk.lambda/4.0.0.1",
-      "hashPath": "awssdk.lambda.4.0.0.1.nupkg.sha512"
-    },
-    "AWSSDK.RDS/4.0.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Hkwss6mNzwF7HFcwcmGfJ8ix+APIv1l5ZPM7LtbyRI7tMHsbxnICjNlbyN2kfHbTlI3gjmydJs+/QTrohRfHvA==",
-      "path": "awssdk.rds/4.0.0.1",
-      "hashPath": "awssdk.rds.4.0.0.1.nupkg.sha512"
-    },
     "Azure.Core/1.38.0": {
       "type": "package",
       "serviceable": true,
@@ -2207,20 +2006,6 @@
       "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
       "path": "fluentvalidation/11.11.0",
       "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
-    },
-    "Htmx/1.8.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-TYPHnpytmi7eVZGJFON+6diLF53PMgmvNc0KN2WV1WcWsRAgPN9l+kadqIF7EOl/eRfsHdTsE1lbjiKl85tPZQ==",
-      "path": "htmx/1.8.1",
-      "hashPath": "htmx.1.8.1.nupkg.sha512"
-    },
-    "Htmx.TagHelpers/1.8.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-tXsy0dK0PHsL02WeGZf2Yi1XTj5fy4P17B7ihLcFor7VTdd+ArIHXjrfe9gJtH6jLJvS4YschuHirYSwPAtI4g==",
-      "path": "htmx.taghelpers/1.8.1",
-      "hashPath": "htmx.taghelpers.1.8.1.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

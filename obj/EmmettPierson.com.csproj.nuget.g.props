@@ -24,9 +24,5 @@
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\emmet\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
     <PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets Condition=" '$(PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets)' == '' ">C:\Users\emmet\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.21.2</PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\emmet\.nuget\packages\microsoft.entityframeworkcore.tools\8.0.15</PkgMicrosoft_EntityFrameworkCore_Tools>
-    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\emmet\.nuget\packages\awssdk.core\4.0.0.2</PkgAWSSDK_Core>
-    <PkgAWSSDK_RDS Condition=" '$(PkgAWSSDK_RDS)' == '' ">C:\Users\emmet\.nuget\packages\awssdk.rds\4.0.0.1</PkgAWSSDK_RDS>
-    <PkgAWSSDK_Lambda Condition=" '$(PkgAWSSDK_Lambda)' == '' ">C:\Users\emmet\.nuget\packages\awssdk.lambda\4.0.0.1</PkgAWSSDK_Lambda>
-    <PkgAWSSDK_ECS Condition=" '$(PkgAWSSDK_ECS)' == '' ">C:\Users\emmet\.nuget\packages\awssdk.ecs\4.0.0.1</PkgAWSSDK_ECS>
   </PropertyGroup>
 </Project>

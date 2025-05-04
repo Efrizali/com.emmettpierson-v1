@@ -1,0 +1,9 @@
+4 classes for this project.
+
+1. Web Design. The home pages that don't link to the rest of the project (on purpose, I don't want potential employers looking at the insecure bits of my website right now, so security by obscurity it is). This is my portfolio website for Capstone, though since I didn't get emmettpierson.com up and running soon enough, I did also set it up for GitHub pages. 
+
+2. Capstone. The portion of this project I attribute to capstone is deploying it to a website that others can access. While this didn't happen in the way that I envisioned, I was still able to host the website using IIS, and hopefully eventually, use the A record on GoDaddy's DNS to set it up, and pray for the best. Looking up the IP address remotely does bring up the website. 
+
+3. Web Services. This website's structure is very REST based, using MVC. Using this architecture and the concepts we learned in class, I was able to fully implement the website in a manor that worked in a standard way. I was also able to ensure that the URL didn't give away any distinguishable architecture while only using the portfolio section of the website. 
+
+4. .NET. Many systems we learned in use, the primary ones being Linq and Entity Framework code first approach. This was also the class where we learned how to create these projects from scratch. It was the lynch pin of this semester, with all of the others being based on C# and .NET Framework. While I didn't do the async await lab, I did implement a few of those features in leu of multithreading so that some features can run in the background without messing with too many threads. Async just means do it when this thread isn't too busy, so it ensures that things don't actually get out of sync since only one task is actually working at a time. 

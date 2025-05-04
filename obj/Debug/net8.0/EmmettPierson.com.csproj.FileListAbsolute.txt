@@ -286,8 +286,6 @@ C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\EmmettPi
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Azure.Core.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Azure.Identity.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\FluentValidation.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Htmx.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Htmx.TagHelpers.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Humanizer.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -519,7 +517,6 @@ C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPi
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.AssemblyInfoInputs.cache
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.AssemblyInfo.cs
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.csproj.CoreCompileInputs.cache
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.MvcApplicationPartsAssemblyInfo.cs
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.MvcApplicationPartsAssemblyInfo.cache
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.RazorAssemblyInfo.cache
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.RazorAssemblyInfo.cs
@@ -543,16 +540,6 @@ C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\refint\E
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.pdb
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\EmmettPierson.com.genruntimeconfig.cache
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\obj\Debug\net8.0\ref\EmmettPierson.com.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.Core.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\AWSSDK.Core.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\AWSSDK.Lambda.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\AWSSDK.RDS.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
-C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\AWSSDK.ECS.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\My Files\Classes\Final Project\com.emmettpierson-v1\bin\Debug\net8.0\System.Security.Permissions.dll

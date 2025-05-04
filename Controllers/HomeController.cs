@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmmettPierson.com.Controllers
 {
+    [Route("")]
     public class HomeController : Controller
     {
         private readonly LedgerContext _context;
@@ -16,36 +17,43 @@ namespace EmmettPierson.com.Controllers
             db.Database.EnsureCreated();
         }
 
+        [Route("")]
         public IActionResult Index()
         {
             return View();
         }
 
+        [Route("Privacy")]
         public IActionResult Privacy()
         {
             return View();
         }
 
+        [Route("Bio")]
         public IActionResult Bio()
         {
             return View();
         }
 
+        [Route("Contact")]
         public IActionResult Contact()
         {
             return View();
         }
 
+        [Route("Portfolio")]
         public IActionResult Portfolio()
         {
             return View();
         }
 
+        [Route("Resume")]
         public IActionResult Resume()
         {
             return View();
         }
 
+        [Route("Error")]
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
