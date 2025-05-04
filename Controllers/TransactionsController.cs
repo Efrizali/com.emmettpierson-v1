@@ -23,12 +23,17 @@ namespace EmmettPierson.com.Controllers
         // GET: Transactions
         public async Task<IActionResult> Index()
         {
+            // Use this to delete interest transactions because they get annoying
+            //_context.Transactions.RemoveRange(_context.Transactions.Where(t => t.Category == "Interest"));
+            //_context.SaveChanges();
+
+
+
             var ledgerContext = _context.Transactions.Include(t => t.Account);
             return View(await ledgerContext.ToListAsync());
         }
 
         // Callable way to test interest calculations, would be an async operation in a normal service that always runs, but that isn't this project
-        // Warning, lots of List<Transaction> lists because yes. 
         // GET: Transactions/CalculateInterest
         public async Task<IActionResult> CalculateInterest()
         {
@@ -38,24 +43,7 @@ namespace EmmettPierson.com.Controllers
             {
                 List<Transaction> transactions = _context.Transactions.Where(t => t.AccountId == account.Id).ToList();
 
-                // For debug purposes, if there is already an interest bearing transaction today, do another one anyway and don't do anything else
-                bool interestToday = false;
-                List<Transaction> todaysTransactions = transactions.Where(t => t.TransactionDate.AtNoon().CompareTo(DateTime.Now.AtNoon()) == 0).ToList();
-                foreach (Transaction transaction in todaysTransactions)
-                {
-                    if (transaction.Category == "Interest")
-                    {
-                        Balance balance = new Balance(account, transactions);
-
-                        _context.Transactions.Add(Transaction.GetInterestTransaction(account, balance.Total, DateTime.Now));
-
-                        interestToday = true;
-
-                        break;
-                    }
-                }
-                if (interestToday) continue;
-
+                transactions.Sort((t1, t2) => t1.TransactionDate.CompareTo(t2.TransactionDate));
 
                 // Get the newest New Balance
                 Transaction newestBalance = null;
@@ -73,6 +61,35 @@ namespace EmmettPierson.com.Controllers
                         newestBalance = transaction;
                     }
                 }
+
+                // For debug purposes, if there is already an interest bearing transaction today, do another one anyway and don't do anything else.
+                // Needs to have access to newestBalance
+                // The rest of this method works great, but this portion would be deleted in production
+                bool interestToday = false;
+                List<Transaction> todaysTransactions = transactions.Where(t => t.TransactionDate.AtNoon().CompareTo(DateTime.Now.AtNoon()) == 0).ToList();
+                foreach (Transaction transaction in todaysTransactions)
+                {
+                    if (transaction.Category == "Interest")
+                    {
+                        // Adjust time to still add interest even if the balance is after noon by adding the interest to tomorrow
+                        if (transaction.TransactionDate.CompareTo(newestBalance.TransactionDate) > 0)
+                        {
+                            Balance balance = new Balance(account, transactions);
+
+                            _context.Transactions.Add(Transaction.GetInterestTransaction(account, balance.Total, DateTime.Now.AddDays(1).AtNoon()));
+                        }
+                        else
+                        {
+                            Balance balance = new Balance(account, transactions);
+
+                            _context.Transactions.Add(Transaction.GetInterestTransaction(account, balance.Total, DateTime.Now.AtNoon()));
+                        }
+                        interestToday = true;
+
+                        break;
+                    }
+                }
+                if (interestToday) continue;
 
                 // Transactions after the newest balance (including the newest balance)
                 List<Transaction> relaventTransactions = transactions.Where(t => t.TransactionDate.CompareTo(newestBalance.TransactionDate) >= 0).ToList();
@@ -110,7 +127,7 @@ namespace EmmettPierson.com.Controllers
                             }
                             if (interestToday) continue;
                             
-                            interestTransactions.Add(Transaction.GetInterestTransaction(account, principal, startingDate));
+                            interestTransactions.Add(Transaction.GetInterestTransaction(account, principal, startingDate.AtNoon()));
 
                             principal += interestTransactions.Last().Amount;
 
@@ -130,7 +147,7 @@ namespace EmmettPierson.com.Controllers
                             }
                             if (interestToday) continue;
 
-                            interestTransactions.Add(Transaction.GetInterestTransaction(account, principal, startingDate));
+                            interestTransactions.Add(Transaction.GetInterestTransaction(account, principal, startingDate.AtNoon()));
 
                             principal += interestTransactions.Last().Amount;
 

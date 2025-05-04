@@ -1,4 +1,4 @@
-﻿@model EmmettPierson.com.Models.Account
+﻿@model EmmettPierson.com.Models.NewTransactions
 
 @{
     ViewData["Title"] = "Details";
@@ -11,56 +11,106 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FirstName)
+            @Html.DisplayNameFor(model => model.Account.FirstName)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.FirstName)
+            @Html.DisplayFor(model => model.Account.FirstName)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.LastName)
+            @Html.DisplayNameFor(model => model.Account.LastName)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.LastName)
+            @Html.DisplayFor(model => model.Account.LastName)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Email)
+            @Html.DisplayNameFor(model => model.Account.Email)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Email)
+            @Html.DisplayFor(model => model.Account.Email)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.PositiveInterest)
+            @Html.DisplayNameFor(model => model.Account.PositiveInterest)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.PositiveInterest)
+            @Html.DisplayFor(model => model.Account.PositiveInterest)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.NegativeInterest)
+            @Html.DisplayNameFor(model => model.Account.NegativeInterest)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.NegativeInterest)
+            @Html.DisplayFor(model => model.Account.NegativeInterest)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Salt)
+            @Html.DisplayNameFor(model => model.Account.Salt)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Salt)
+            @Html.DisplayFor(model => model.Account.Salt)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Hash)
+            @Html.DisplayNameFor(model => model.Account.Hash)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Hash)
+            @Html.DisplayFor(model => model.Account.Hash)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Password)
+            @Html.DisplayNameFor(model => model.Account.Password)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Password)
+            @Html.DisplayFor(model => model.Account.Password)
         </dd>
     </dl>
+
+
+    <h1><br />10 Recent Transactions<br /></h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Transaction Date
+                </th>
+                <th>
+                    Is new Balance
+                </th>
+                <th>
+                    Amount
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Category
+                </th>
+            </tr>
+        </thead>
+
+
+        @foreach (var item in Model.Transactions)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsNewBalance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descrition)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+            </tr>
+
+        }
+
+
+
+    </table>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Edit" asp-route-id="@Model?.Account.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>

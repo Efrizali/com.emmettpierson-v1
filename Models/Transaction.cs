@@ -45,7 +45,7 @@ namespace EmmettPierson.com.Models
             transaction.Id = 0;
             transaction.Account = account;
             transaction.AccountId = account.Id;
-            transaction.TransactionDate = date.AtNoon();
+            transaction.TransactionDate = date;
             transaction.IsNewBalance = false;
             transaction.Descrition = "Daily Interest";
             transaction.Category = "Interest";

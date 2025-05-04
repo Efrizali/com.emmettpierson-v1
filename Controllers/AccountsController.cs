@@ -59,12 +59,25 @@ namespace EmmettPierson.com.Controllers
 
             var account = await _context.Account
                 .FirstOrDefaultAsync(m => m.Id == id);
+
+            List<Transaction> transactions = _context.Transactions
+                .Where(t => t.AccountId == id).ToList();
+
+            transactions.Sort((t1, t2) => -t1.TransactionDate.CompareTo(t2.TransactionDate));
+
+            while (transactions.Count > 10)
+            {
+                transactions.RemoveAt(transactions.Count - 1);
+            }
+
+            var newTransaction = new NewTransactions(account, transactions);
+
             if (account == null)
             {
                 return NotFound();
             }
 
-            return View(account);
+            return View(newTransaction);
         }
 
         // GET: Accounts/Create
